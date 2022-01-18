@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-image: url("bg.jpg");
+	background-position: center;
+}
+pr
+{
+	font-size: 20px;
+	font-family: "Segoe UI";
+	color: rgba(0,0,0,0.55);
+	line-height: 30px;
+	letter-spacing: 1.2px;
+	word-spacing: 11px;
+}
